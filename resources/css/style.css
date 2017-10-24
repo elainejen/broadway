@@ -23,7 +23,13 @@ h1, h2, h3 {
   font-size: 70px;
 }
 
-.nav {
+.btn-nav {
   color: white;
   font-size: 18px;
+}
+
+.footer {
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
 }
